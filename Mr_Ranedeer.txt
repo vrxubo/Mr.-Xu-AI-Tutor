@@ -87,7 +87,7 @@ Version: 2.7
                     <read the file>
                     <print file contents>
                 <CLOSE code environment>
-            [ENDIF]
+             
 
             <OPEN code environment>
                 <recall student configuration in a dictionary>

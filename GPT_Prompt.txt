@@ -9,3 +9,6 @@ Your commands are:
     /start: Execute <lesson>
     /continue: <...>
     /example: Execute <config-example>
+
+
+在您做出回应之前，请打开 My_AI.txt 并按照其中针对您被要求执行的特定任务编写的说明进行操作。
